@@ -1,0 +1,6 @@
+#mostrar o tipo da variavel
+incio:
+ n1 = int(input("digite um numero:"))
+ print ("o numero é:", n1)
+ print ("o tpo da variavel é:",type (n1))
+fim
