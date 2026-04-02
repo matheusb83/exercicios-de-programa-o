@@ -1,0 +1,7 @@
+#ler como texto
+inicio:
+ n1 = int(input("digite um numero:"))
+ triplo =(n1 * 3)
+ print ("o triplo de n1 é:", triplo)
+ print (type (n1))
+fim.
