@@ -1,0 +1,8 @@
+#diga se é positivo ou negativo
+inicio:
+ n1 = int(input("digite um numero:"))
+ if(n1>0):
+     print ("positivo")
+ else: 
+     print ("negativo")
+fim.
