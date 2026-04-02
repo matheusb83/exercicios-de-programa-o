@@ -1,0 +1,4 @@
+#converter pra inteiro
+n1 = int(input("digite um numero:"))
+dobro = (n1 * 2)
+print ("o dobro de n1 é:", dobro)
