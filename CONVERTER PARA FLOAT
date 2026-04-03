@@ -1,0 +1,6 @@
+#converter pra float e mostrar a metade
+incio:
+n1 = float(input("digite um numero: "))
+metade = n1 / 2 
+print ("metade do valor digitado é: ", metade)
+fim.
