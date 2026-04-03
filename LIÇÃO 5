@@ -1,4 +1,4 @@
-#ler como texto
+#ler como texto e mostrar o triplo
 inicio:
  n1 = int(input("digite um numero:"))
  triplo =(n1 * 3)
