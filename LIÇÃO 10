@@ -1,0 +1,8 @@
+#intervalo de 0 a 10
+incio:
+ n1 =int(input("digite um valor: "))
+if (n1 >= 0) and (n1 <=10):
+    print ("esta no intervalo")
+else:
+    print ("não esta"
+fim.
