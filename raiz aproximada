@@ -1,0 +1,8 @@
+#digite um numero e mostre a raiz aproximada
+incio:
+ n1 = int(input("digite um numero:"))
+if (n1 > 0):
+    print ("positivo", n1 ** 0.5)
+else:
+    print ("numero invalido")
+fim.
